@@ -19,5 +19,5 @@
 * [Experiment 5: BASH or SHELL scripting continued]([590029169]Exp[5]_ScriptLog.md)
 * [Experiment 6: Shell Loops]([590029169]Exp[6]_ScriptLog.md)
 * [Experiment 7: Shell Programming, Process and Schedule]([590029169]Exp[7]_ScriptLog.md)
-* [Experiment 8: Shell Programming continued]([590029169]Exp[8]_ScriptLog.md)
+* [Experiment 8: Shell Programming continued]()
 * [Midterm Project](midterm.md)
