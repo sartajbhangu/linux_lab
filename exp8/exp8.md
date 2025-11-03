@@ -44,7 +44,7 @@ fi
 
 ### Output:
 
-![exp8_ifelse.png](/.img/exp8_ifelse.png)
+![exp8_ifelse.png](.img/exp8_ifelse.png)
 
 ---
 
@@ -73,7 +73,7 @@ esac
 
 ### Output:
 
-![exp8_case.png](/.img/exp8_case.png)
+![exp8_case.png](.img/exp8_case.png)
 
 ---
 
@@ -102,7 +102,7 @@ done
 
 ### Output:
 
-![exp8_args.png](/.img/exp8_args.png)
+![exp8_args.png](.img/exp8_args.png)
 
 ---
 
@@ -134,7 +134,7 @@ fi
 
 ### Output:
 
-![exp8_leapyear.png](/.img/exp8_leapyear.png)
+![exp8_leapyear.png](.img/exp8_leapyear.png)
 
 ---
 

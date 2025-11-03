@@ -37,7 +37,7 @@ w
 
 ### Output:
 
-![exp7_script](/.img/exp7_script.png)
+![exp7_script](.img/exp7_script.png)
 
 ---
 
@@ -58,7 +58,7 @@ fg %1
 
 ### Output:
 
-![exp7_bg_fg](/.img/exp7_bg_fg.png)
+![exp7_bg_fg](.img/exp7_bg_fg.png)
 
 ---
 
@@ -78,7 +78,7 @@ kill <pid>
 
 ### Output:
 
-![exp7_kill](/.img/exp7_kill.png)
+![exp7_kill](.img/exp7_kill.png)
 
 ---
 
@@ -97,7 +97,7 @@ top
 
 ### Output:
 
-![exp7_monitor](/.img/exp7_monitor.png)
+![exp7_monitor](.img/exp7_monitor.png)
 
 ---
 
@@ -116,7 +116,7 @@ crontab -e
 
 ### Output:
 
-![exp7_cron](/.img/exp7_cron.png)
+![exp7_cron](.img/exp7_cron.png)
 <!--
 ### Output:
 <p align="center">

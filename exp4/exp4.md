@@ -27,7 +27,7 @@ echo "Hello, World!"
 
 #### Output:
 
-![hello.png](/.img/hello.png)
+![hello.png](.img/hello.png)
 
 ---
 
@@ -49,7 +49,7 @@ echo "Hello, $name! Welcome to Shell Scripting."
 
 ### Output:
 
-![greeting.png](/.img/greeting.png)
+![greeting.png](.img/greeting.png)
 
 ---
 
@@ -74,7 +74,7 @@ echo "Division: $((num1 / num2))"
 
 ### Output:
 
-![arithmetic.png](/.img/arithmetic.png)
+![arithmetic.png](.img/arithmetic.png)
 
 ---
 
@@ -100,7 +100,7 @@ fi
 
 ### Output:
 
-![vote.png](/.img/vote.png)
+![vote.png](.img/vote.png)
 
 ---
 

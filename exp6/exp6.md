@@ -18,7 +18,7 @@ Loops allow repeated execution of commands until a condition is met. Common loop
 
 ## Procedure & Observations
 
-## [Exercise 1: Simple `for` loop](/EXP6/for_simple.sh)
+## [Exercise 1: Simple `for` loop]
 
 ### Task Statement:
 
@@ -34,11 +34,11 @@ done
 
 ### Output:
 
-![exp6_for_simple.png](/.img/exp6_for_simple.png)
+![exp6_for_simple.png](.img/exp6_for_simple.png)
 
 ---
 
-## [Exercise 2: `for` loop over files](/EXP6/for_files.sh)
+## [Exercise 2: `for` loop over files]
 
 ### Task Statement:
 
@@ -54,11 +54,11 @@ done
 
 ### Output:
 
-![exp6_for_files.png](/.img/exp6_for_files.png)
+![exp6_for_files.png](.img/exp6_for_files.png)
 
 ---
 
-## [Exercise 3: C-style `for` loop](/EXP6/for_cstyle.sh)
+## [Exercise 3: C-style `for` loop]
 
 ### Task Statement:
 
@@ -74,11 +74,11 @@ done
 
 ### Output:
 
-![exp6_for_cstyle.png](/.img/exp6_for_cstyle.png)
+![exp6_for_cstyle.png](.img/exp6_for_cstyle.png)
 
 ---
 
-## [Exercise 4: `while` loop and reading input](/EXP6/while.sh)
+## [Exercise 4: `while` loop and reading input]
 
 ### Task Statement:
 
@@ -102,11 +102,11 @@ done
 
 ### Output:
 
-![exp6_while](/.img/exp6_while.png)
+![exp6_while](.img/exp6_while.png)
 
 ---
 
-## [Exercise 5: `until` loop](/EXP6/until.sh)
+## [Exercise 5: `until` loop]
 
 ### Task Statement:
 
@@ -124,11 +124,11 @@ done
 
 ### Output:
 
-![exp6_until](/.img/exp6_until.png)
+![exp6_until](.img/exp6_until.png)
 
 ---
 
-## [Exercise 6: `break` and `continue`](/EXP6/break_continue.sh)
+## [Exercise 6: `break` and `continue`]
 
 ### Task Statement:
 
@@ -150,11 +150,11 @@ done
 
 ### Output:
 
-![exp6_break_continue](/.img/exp6_break_continue.png)
+![exp6_break_continue](.img/exp6_break_continue.png)
 
 ---
 
-## [Exercise 7: Nested loops](/EXP6/nested.sh)
+## [Exercise 7: Nested loops]
 
 ### Task Statement:
 
@@ -173,13 +173,13 @@ done
 
 ### Output:
 
-![exp6_nested](/.img/exp6_nested.png)
+![exp6_nested](.img/exp6_nested.png)
 
 ---
 
 ## Assignments
 
-### [Assignment 1: Factorial of a Number](/EXP6/a1.sh)
+### [Assignment 1: Factorial of a Number]
 
 ### Command(s):
 
@@ -196,11 +196,11 @@ echo "Factorial of $num is $fact"
 
 ### Output:
 
-![exp6_a1.png](/.img/exp6_a1.png)
+![exp6_a1.png](.img/exp6_a1.png)
 
 ---
 
-### [Assignment 2: Fibonacci Series](/EXP6/a2.sh)
+### [Assignment 2: Fibonacci Series]
 
 ### Command(s):
 
@@ -222,11 +222,11 @@ echo
 
 ### Output:
 
-![exp6_a2.png](/.img/exp6_a2.png)
+![exp6_a2.png](.img/exp6_a2.png)
 
 ---
 
-### [Assignment 3: Sum of Digits](/EXP6/a3.sh)
+### [Assignment 3: Sum of Digits]
 
 ### Command(s):
 
@@ -246,11 +246,11 @@ echo "Sum of digits of $num is $sum"
 
 ### Output:
 
-![exp6_a3.png](/.img/exp6_a3.png)
+![exp6_a3.png](.img/exp6_a3.png)
 
 ---
 
-### [Assignment 4: Reverse a Number](/EXP6/a4.sh)
+### [Assignment 4: Reverse a Number]
 
 ### Command(s):
 
@@ -270,11 +270,11 @@ echo "Reverse of $num is $rev"
 
 ### Output:
 
-![exp6_a4.png](/.img/exp6_a4.png)
+![exp6_a4.png](.img/exp6_a4.png)
 
 ---
 
-### [Assignment 5: Prime Number Check](/EXP6/a5.sh)
+### [Assignment 5: Prime Number Check]
 
 ### Command(s):
 
@@ -300,7 +300,7 @@ fi
 
 ### Output:
 
-![exp6_a5.png](/.img/exp6_a5.png)
+![exp6_a5.png](.img/exp6_a5.png)
 
 ---
 

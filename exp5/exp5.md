@@ -47,7 +47,7 @@ fi
 
 ### Output:
 
-![prime.png](/.img/prime.png)
+![prime.png](.img/prime.png)
 
 ---
 
@@ -78,7 +78,7 @@ echo "Sum of digits: $sum"
 
 ### Output:
 
-![sum.png](/.img/sum.png)
+![sum.png](.img/sum.png)
 
 ---
 
@@ -116,7 +116,7 @@ fi
 
 ### Output:
 
-![armstrong.png](/.img/armstrong.png)
+![armstrong.png](.img/armstrong.png)
 
 ---
 

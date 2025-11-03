@@ -69,7 +69,7 @@ ls -la
 
 ### Output:
 
-![exp2_ex1](/.img/exp2_ex1.png)
+![exp2_ex1](.img/exp2_ex1.png)
 
 ---
 
@@ -88,7 +88,7 @@ ls -la ../backup/
 ### Output:
 
 
-![exp2_ex2](/.img/exp2_ex2.png)
+![exp2_ex2](.img/exp2_ex2.png)
 
 ---
 
@@ -106,10 +106,10 @@ cat numbers.txt
 
 ### Output:
 
-![exercise3_1.png](/.img/exp2_ex3_1.png)
-![exercise3_2.png](/.img/exp2_ex3_2.png)
-![exercise3_3.png](/.img/exp2_ex3_3.png)
-![exercise3_4.png](/.img/exp2_ex3_4.png)
+![exercise3_1.png](.img/exp2_ex3_1.png)
+![exercise3_2.png](.img/exp2_ex3_2.png)
+![exercise3_3.png](.img/exp2_ex3_3.png)
+![exercise3_4.png](.img/exp2_ex3_4.png)
 
 ---
 
@@ -126,8 +126,8 @@ top
 
 ### Output:
 
-![exp2_ex4](/.img/exp2_ex4_1.png)
-![exp2_ex4](/.img/exp2_ex4_2.png)
+![exp2_ex4](.img/exp2_ex4_1.png)
+![exp2_ex4](.img/exp2_ex4_2.png)
 
 ---
 
@@ -144,7 +144,7 @@ history | tail -20
 
 ### Output:
 
-![ex2_ex5](/.img/exp2_ex5.png)
+![ex2_ex5](.img/exp2_ex5.png)
 
 ---
 
@@ -160,7 +160,7 @@ pwd
 
 ### Output:
 
-![exp2_t1](/.img/exp2_t1.png)
+![exp2_t1](.img/exp2_t1.png)
 
 ---
 
@@ -177,7 +177,7 @@ cat notes.txt
 
 ### Output:
 
-![exp2_t2](/.img/exp2_t2.png)
+![exp2_t2](.img/exp2_t2.png)
 
 ---
 
@@ -190,7 +190,7 @@ mv todo.txt ../scripts/
 
 ### Output:
 
-![exp2_t3](/.img/exp2_t3.png)
+![exp2_t3](.img/exp2_t3.png)
 
 ---
 
@@ -206,7 +206,7 @@ ls -l backup.sh
 
 ### Output:
 
-![exp2_t4](/.img/exp2_t4.png)
+![exp2_t4](.img/exp2_t4.png)
 
 ---
 
@@ -221,7 +221,7 @@ grep "1" numbers.txt
 
 ### Output:
 
-![exp2_t5](/.img/exp2_t5.png)
+![exp2_t5](.img/exp2_t5.png)
 
 ---
 
@@ -235,7 +235,7 @@ cat config.txt
 ### Output:
 
 
-![exp2_t6](/.img/exp2_t6.png)
+![exp2_t6](.img/exp2_t6.png)
 
 ---
 
@@ -251,7 +251,7 @@ cat system_info.txt
 
 ### Output:
 
-![exp2_t7](/.img/exp2_t7.png)
+![exp2_t7](.img/exp2_t7.png)
 
 ---
 
@@ -265,7 +265,7 @@ ls -la ~/test_project/backup
 
 ### Output:
 
-![exp2_t8](/.img/exp2_t8.png)
+![exp2_t8](.img/exp2_t8.png)
 
 ---
 
@@ -278,7 +278,7 @@ history 10
 
 ### Output:
 
-![exp2_t9](/.img/exp2_t9.png)
+![exp2_t9](.img/exp2_t9.png)
 
 ---
 
@@ -293,7 +293,7 @@ cat summary.txt
 
 ### Output:
 
-![exp2_t10](/.img/exp2_t10.png)
+![exp2_t10](.img/exp2_t10.png)
 
 ---
 
