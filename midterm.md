@@ -1,8 +1,8 @@
 # Linux Lab Midterm Project  
 ## **Daily User Log Archiver**
 
-**Student Name:** Sartaj Singh  
-**Course:** B.Tech CSE  
+**Student Name:** Sartaj Singh 
+**Course:** B.Tech CSE
 **Project Type:** Shell Scripting  
 **Date:** October 2025  
 
@@ -219,16 +219,16 @@ crontab -l
 ## **Directory Structure**
 ```
 ~/daily_logs/
-�
+¦
 +-- logs/
-�   +-- log_2025-10-01.txt
-�   +-- log_2025-10-02.txt
-�   +-- ...
-�
+¦   +-- log_2025-10-01.txt
+¦   +-- log_2025-10-02.txt
+¦   +-- ...
+¦
 +-- archive/
-�   +-- log_2025-09-25.txt
-�   +-- ...
-�
+¦   +-- log_2025-09-25.txt
+¦   +-- ...
+¦
 +-- weekly_logs_2025-42.tar.gz
 ```
 
